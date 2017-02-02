@@ -1,9 +1,6 @@
 # JavaScript Style Guide #
 
 
-
-## Miscellaneous ##
-
 Use Unix line endings.
 
 Use soft tabs with 4 spaces.

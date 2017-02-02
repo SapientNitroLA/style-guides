@@ -1,9 +1,6 @@
 # HTML Style Guide #
 
 
-
-## Miscellaneous ##
-
 Use soft tabs of 2 spaces. 
 
 

@@ -1,9 +1,6 @@
 # CSS Style Guide #
 
 
-
-## Miscellaneous ##
-
 Use soft tabs with 4 spaces. 
 
 Do not use the `!important` declaration unless no reasonable alternative exists.
